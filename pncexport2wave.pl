@@ -1,7 +1,7 @@
 #!/usr/bin/env perl
 
 # This is a helper script to convert PNC Bank's Online Statement
-# CSV export to the Wave Accountingi (waveapps.com) CSV import.
+# CSV export to the Wave Accounting (waveapps.com) CSV import.
 #
 # The data is printed to STDOUT.  Just redirect as needed.
 use strict;
